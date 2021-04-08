@@ -20,6 +20,7 @@ Index列に存在するTextBoxにある値を変更することにより, リア
 
 ## 表示灯表示とNameの対応関係
 ### ATACS
+
 |Name|実際の表示灯表示|
 |-|-|
 |Power|ATACS電源|
@@ -39,6 +40,7 @@ Index列に存在するTextBoxにある値を変更することにより, リア
 |System2Fault|2系故障|
 
 ### ATS-P
+
 |Name|実際の表示灯表示|
 |-|-|
 |Power|P電源|
@@ -50,6 +52,7 @@ Index列に存在するTextBoxにある値を変更することにより, リア
 |Fault|故障|
 
 ### ATS-Sn
+
 |Name|実際の表示灯表示|
 |-|-|
 |Power|(ATS電源)|
@@ -57,6 +60,7 @@ Index列に存在するTextBoxにある値を変更することにより, リア
 |RedLamp|ATS動作|
 
 ### D-ATC
+
 |Name|実際の表示灯表示|
 |-|-|
 |DATC|デジタルATC|
@@ -71,6 +75,7 @@ Index列に存在するTextBoxにある値を変更することにより, リア
 |CutOut|ATC開放|
 
 ### FD
+
 |Name|実際の表示灯表示|
 |-|-|
 |RollingStopBrake|転動防止ブレーキ|
@@ -82,6 +87,7 @@ Index列に存在するTextBoxにある値を変更することにより, リア
 |SystemCutOut|ホームドア開放|
 
 ### TASC
+
 |Name|実際の表示灯表示|
 |-|-|
 |Power|TASC電源|
