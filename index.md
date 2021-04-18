@@ -1,4 +1,9 @@
 # [tralsys.github.io](https://tralsys.github.io)
+## [caMon](caMon/index.md)
+[index](caMon/index.md)
+
+Tralsysにて公開しているcaMonのdocsをまとめています.
+
 ## [caMonPageMod](caMonPageMod/index.md)
 [index](caMonPageMod/index.md)
 
