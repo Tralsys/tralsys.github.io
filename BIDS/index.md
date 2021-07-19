@@ -14,7 +14,7 @@ BIDS_Serverのserial modとArduinoを通信させるために使用するライ�
 - blankmod  
   : 何もしないmodです.  デバッグ用ですが一応同梱しています.
 - communication  
-  : Rock_On様のcommunication.dllと同じデータ配列を送受信するライブラリです.  本modに関連する質問等は[@Tetsu_Otter](htps://twitter.com/Tetsu_Otter)までお願いします.
+  : Rock_On様のcommunication.dllと同じデータ配列を送受信するライブラリです.  本modに関連する質問等は[@Tetsu_Otter](https://twitter.com/Tetsu_Otter)までお願いします.
 - serial  
   : シリアル通信にて通信を行うライブラリです.  主にArduino等と通信する場合に使用することになると思います.
 - swif  
