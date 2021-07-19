@@ -1,4 +1,7 @@
 # [tralsys.github.io](https://tralsys.github.io)
+
+[BIDSソフトウェア群のリポジトリ一覧はこちら](/BIDS/index.md)
+
 ## [caMon](caMon/index.md)
 [index](caMon/index.md)
 
