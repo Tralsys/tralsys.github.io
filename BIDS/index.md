@@ -1,7 +1,7 @@
 # BIDSソフトウェア一覧
 
 ## ArduinoLibs
-[TetsuOtter.TR.BIDS.ArduinoLibs](https://github.com/TetsuOtter/TR.BIDS.ArduinoLibs)
+[TetsuOtter/TR.BIDS.ArduinoLibs](https://github.com/TetsuOtter/TR.BIDS.ArduinoLibs)
 
 BIDS_Serverのserial modとArduinoを通信させるために使用するライブラリです.
 
