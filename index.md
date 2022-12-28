@@ -17,5 +17,7 @@ Tralsysにて公開しているcaMon Page Modのdocsをまとめています.
 
 BIDS_Serverの解説等をまとめています.
 
-## BIDSSMemLib
-準備中
+## [BIDSSMemLib](BIDSSMemLib/index.md)
+
+- [index](BIDSSMemLib/index.md)
+- [インストール方法](BIDSSMemLib/HowToInstall.md)
