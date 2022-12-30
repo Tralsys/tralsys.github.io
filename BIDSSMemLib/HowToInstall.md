@@ -202,6 +202,9 @@ BVEでの状態情報がDataCheckerにも表示されていたら、インスト
 前提として、BVE6の本体はインストール済みであり、シナリオや車両データも準備済みとします。
 今回は、インストール先のシナリオ例として、[「BVE Trainsim 内房線」](http://bvets.net/uchibo/)を使用します。
 
+説明に使用している画像について、一部BVE5を使用しているものがありますが、UI的にはBVE6とほぼ同じなので、特に気にせずにご覧ください。
+気が向いたらBVE6を使用したものに差し替えます。
+
 ### 1. BIDSSMemLibをダウンロードする
 
 まずは、プラグインをダウンロードします。[BIDSSMemLibのReleasesページ](https://github.com/Tralsys/BIDSSMemLib/releases/latest)を開いて下さい。
