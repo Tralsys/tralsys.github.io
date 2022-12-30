@@ -1,3 +1,8 @@
+---
+parent: TR.caMonPageMod.HoanDisp
+grand_parent: caMon Page Mod
+---
+
 # caMonPageMod HoanDisp 使い方
 本modを読み込むと, 最初に選択ページが表示されます.  この画面より表示したいページを選択します.
 

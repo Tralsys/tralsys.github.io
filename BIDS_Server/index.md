@@ -1,3 +1,8 @@
+---
+title: BIDS_Server
+has_children: true
+---
+
 [<< Go Home](../index.md)
 
 # BIDS_Server doc

@@ -1,3 +1,8 @@
+---
+title: caMon Page Mod
+has_children: true
+---
+
 # caMonPageMod (published from Tralsys)
 ## 共通事項
 - [modの使い方 (ja)](HowToUse.ja.md)

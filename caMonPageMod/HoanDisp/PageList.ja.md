@@ -1,3 +1,8 @@
+---
+parent: TR.caMonPageMod.HoanDisp
+grand_parent: caMon Page Mod
+---
+
 # HoanDisp Page List
 なお, 各画像には開発中版のものが含まれている場合があります.  実際の表示とは異なる場合がありますので, ご了承ください.
 

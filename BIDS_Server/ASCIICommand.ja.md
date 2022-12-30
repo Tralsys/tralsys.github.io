@@ -1,3 +1,7 @@
+---
+parent: BIDS_Server
+---
+
 [<< Home](../index.md)  [< index](./index.md)
 
 # BIDS_Server 文字列形式コマンド解説

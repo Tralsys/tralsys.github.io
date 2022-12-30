@@ -1,3 +1,7 @@
+---
+parent: caMon Page Mod
+---
+
 # caMon page mod 使い方
 全てのmodで共通する使い方説明を記載します.
 

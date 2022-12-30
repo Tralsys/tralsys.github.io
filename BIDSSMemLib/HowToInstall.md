@@ -1,3 +1,8 @@
+---
+title: How to install
+parent: BIDSSMemLib
+---
+
 # How to install BIDSSMemLib
 
 BIDSSMemLibをインストールする方法を解説しています。
