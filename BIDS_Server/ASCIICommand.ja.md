@@ -2,8 +2,6 @@
 parent: BIDS_Server
 ---
 
-[<< Home](../index.md)  [< index](./index.md)
-
 # BIDS_Server 文字列形式コマンド解説
 # BIDS ASCII Commands doc
 このファイルは, BIDSの文字列コマンド形式の説明です.  v100に対応しています
