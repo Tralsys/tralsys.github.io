@@ -6,6 +6,7 @@ url: https://tralsys.github.io
 
 heading_anchors: true
 color_scheme: dark
+enable_copy_code_button: true
 
 plugins:
   - jekyll-titles-from-headings
