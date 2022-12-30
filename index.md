@@ -1,4 +1,7 @@
-# [tralsys.github.io](https://tralsys.github.io)
+---
+title: Home
+layout: home
+---
 
 [BIDSソフトウェア群のリポジトリ一覧はこちら](/BIDS/index.md)
 
